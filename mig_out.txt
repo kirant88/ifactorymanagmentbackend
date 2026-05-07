@@ -1,0 +1,4 @@
+Operations to perform:
+  Apply all migrations: accounts
+Running migrations:
+  Applying accounts.0002_user_organization_name... OK

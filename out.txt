@@ -1,0 +1,3 @@
+Migrations for 'accounts':
+  accounts\migrations\0001_initial.py
+    - Create model User
